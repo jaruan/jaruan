@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaruan&label=Profile%20views&color=0e75b6&style=flat" alt="jaruan" /> </p>
 
-- 🔭 I’m working on **seeking a new job. Please send me an invitation for the interview.**
-
-- 💬 Ask me about **Node.js, Koa, Hapi, React, Microservices**
+- 💬 Ask me about **Python, Node.js, Koa, Hapi, React, Microservices**
 
 - 📫 How to reach me **jadon_yuen@outlook.com**
 
